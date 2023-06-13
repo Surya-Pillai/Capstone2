@@ -1,5 +1,5 @@
 .wallpaper {
-    background-image: url('images/mountain_extra.jpg');
+    background-image: url('mountain_extra.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;
@@ -8,7 +8,7 @@
 
 @media (max-width: 480px){
     .wallpaper {
-        background-image: url('images/mountain_mobile.jpg');
+        background-image: url('mountain_mobile.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed; 
         background-size: 100% 100%;
